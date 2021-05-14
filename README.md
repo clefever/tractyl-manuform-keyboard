@@ -127,7 +127,7 @@ Total: $119.08
 Part | Price | Comments
 -----|-------|----
 [Switches](https://novelkeys.xyz/products/kailh-low-profile-switches) | 5 * $6.00 | You'll need a pack of 50. Doesn't have to be choc, but I used choc brown
-[Keycaps](https://mkultra.click/collections/choc/products/mbk-choc-keycaps) | ~$26 | These are really great pbt low profile keycaps. Love these things
+[Keycaps](https://mkultra.click/mbk-choc-keycaps) | ~$26 | These are really great pbt low profile keycaps. Love these things
 [Diodes](https://keeb.io/products/1n4148-diodes?_pos=1&_sid=05f64b32a&_ss=r) | $2.99 | These are sold out as of writing this, may have to get them elsewhere
 [TRRS Cable](https://keeb.io/products/trrs-cable?_pos=1&_sid=4a81b1f13&_ss=r) | $3.99 | 
 [Pro Micro x2](https://www.amazon.com/gp/product/B07FXCTVQP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | $15.99 | Trust me, you'll want the 3 pack. The usb plug tends to rip off, so be careful when unplugging/plugging back in
